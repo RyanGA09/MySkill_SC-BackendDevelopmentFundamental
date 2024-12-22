@@ -1,8 +1,22 @@
 // key
-const person = { firstName: "John", lastName: "Doe", age: 46 };
+const person = {
+  firstName: "Ryan",
+  middle: "Gading",
+  lastName: "Abdullah",
+  age: 22,
+};
 console.log(person.firstName);
+console.log(person.middle);
+console.log(person.lastName);
+console.log(person.age);
+// output: 
+// Ryan
+// Gading
+// Abdullah
+// 22
+
 const question = {
-  email: "john@gmail.com",
+  email: "test@gmail.com",
   password: "123",
   place: "Surabaya",
 };

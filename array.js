@@ -3,12 +3,16 @@ let angka = 12; // integer
 let desimal = 0.8; // double / float
 let kata = "Ini kata"; // string
 
+console.log(angka + desimal);
+console.log(kata);
+console.log("");
+
 // tipe non pritif
-// 0
-const cars = ["Saab", "Volvo", "BMW"];
+const cars = ["Honda", "Yamaha", "Lamborghini"];
 const quest = ["belajar", "suka", "myskill", "saya", "sangat", "di"];
-// indeks ke 2 bukan data ke dua
+
 console.log(cars[2]);
+console.log("");
 console.log(quest[3]);
 console.log(quest[4]);
 console.log(quest[1]);
