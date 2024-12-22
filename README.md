@@ -1,1 +1,1 @@
-# MySkill_SC-BackendDevelopmentFundamental
+# MySkill Short Class - Backend Development Fundamental
